@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mngaonkar
 - 👀 I’m interested in everything cloud and artifical intelligence
-- 🌱 I’m currently learning practical machine learning using cloud
-- 💞️ I’m looking to collaborate on cloud native and machine learning projects
+- 🌱 I’m currently learning practical applications of machine learning and artificial intelligence
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me twitter @mngaonkar
 
 <!---
