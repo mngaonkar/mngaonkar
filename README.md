@@ -1,6 +1,6 @@
 # Hi, I'm Mahadev 👋
 
-📍 **California** | 🤖 **Cloud AI Engineer** | 🚀 **Crypto**
+📍 **San Francisco - Bay Area** | 🤖 **Cloud AI Engineer** | 🚀 **Crypto**
 
 Innovative Cloud & AI Solutions Architect with experience in designing,
 developing, and deploying enterprise-grade solutions across public cloud platforms—GCP,
