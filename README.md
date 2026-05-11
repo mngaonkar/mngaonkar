@@ -16,7 +16,7 @@ Passionate evangelist for Web 3.0 computing.
 [![GitHub](https://img.shields.io/badge/mngaonkar-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/mngaonkar)
 
 ## Current Projects
-- 🤖 **[Declarative Agents](https://github.com/mngaonkar/google-adk-samples/tree/main/declarative_agent_sdk)** - Declarative multi-agent SDK
+- 🤖 **[Declarative Agents](https://github.com/mngaonkar/declarative_agent_sdk)** - Declarative multi-agent SDK
 - 🎬 **[flixfinder](https://movies.altbox.one)** - AI Movie recommender
 - 🕵🏻‍♀️ **[AI browser assistant](https://github.com/mngaonkar/ai-browser-assistant)** - Chrome browser plugin for AI assistant
 - 📋 **[Nvidia Generative AI Notes](https://mngaonkar.github.io/nvidia-generative-ai-notes/)** - Nvidia AI knowledge dump
