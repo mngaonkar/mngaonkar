@@ -17,6 +17,7 @@ Passionate evangelist for Web 3.0 computing.
 
 ## Current Projects
 - 🛠️ **[Alt Agent Harness](https://github.com/mngaonkar/alt-agent-harness)** - Lightweight skill-based agent harness for your laptop
+- 🔌 **[ESP32-S3 AI Agent](https://github.com/mngaonkar/esp32s3-ai-agent)** - AI agent running on an ESP32-S3 microcontroller with runtime Skills
 - 🤖 **[Declarative Agents](https://github.com/mngaonkar/declarative_agent_sdk)** - Declarative multi-agent SDK
 - 🎬 **[flixfinder](https://movies.altbox.one)** - AI Movie recommender
 - 🕵🏻‍♀️ **[AI browser assistant](https://github.com/mngaonkar/ai-browser-assistant)** - Chrome browser plugin for AI assistant
