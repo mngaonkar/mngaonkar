@@ -15,7 +15,7 @@ Passionate evangelist for Web 3.0 computing.
 [![LinkedIn](https://img.shields.io/badge/-Mahadev_Gaonkar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahadevgaonkar/)
 [![GitHub](https://img.shields.io/badge/mngaonkar-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/mngaonkar)
 
-## Current Projects
+## Project Highlights
 - 🛠️ **[Alt Agent Harness](https://github.com/mngaonkar/alt-agent-harness)** - Lightweight skill-based agent harness for your laptop
 - 🔌 **[ESP32-S3 AI Agent](https://github.com/mngaonkar/esp32s3-ai-agent)** - AI agent running on an ESP32-S3 microcontroller with runtime Skills
 - 🤖 **[Declarative Agents](https://github.com/mngaonkar/declarative_agent_sdk)** - Declarative multi-agent SDK
